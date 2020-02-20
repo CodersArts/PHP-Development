@@ -41,8 +41,8 @@ INSERT INTO `student_record` (`id`, `name`, `address`, `marks`) VALUES
 (1, 'Akash', 'Noida', 400),
 (2, 'Mukesh', 'Delhi', 500),
 (3, 'Anand', 'Ghaziabad', 500),
-(5, 'Ajay', 'Lucknow', 400),
-(6, 'Vijay', 'NCR', 150),
-(8, 'Nikita', 'Patna', 240),
-(10, 'Nisha', 'Okala', 900),
-(11, 'Sanjay', 'Chandigarh', 760);
+(4, 'Ajay', 'Lucknow', 400),
+(5, 'Vijay', 'NCR', 150),
+(6, 'Nikita', 'Patna', 240),
+(7, 'Nisha', 'Okala', 900),
+(8, 'Sanjay', 'Chandigarh', 760);
